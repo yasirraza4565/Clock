@@ -120,7 +120,7 @@
 
  @media (max-width:750px){
     #time{
-        gap: 5px;
+        gap: 10px;
     }
 
      #time div{
